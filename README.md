@@ -1,7 +1,7 @@
 # GC
 Presentation about Java garbage collection I did last year.
 
-# Some Useful resources (not structured)
+# Useful Resources (not structured)
 * [Hotspot VM Overview](https://www.cs.princeton.edu/picasso/mats/HotspotOverview.pdf)
 * [Scalar replacement](http://www.stefankrause.net/wp/?p=64)
 * [Points on Safepoint](http://javaagile.blogspot.ru/2012/11/points-on-safepoints.html)
