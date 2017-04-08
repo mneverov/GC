@@ -27,8 +27,9 @@ Presentation about Java garbage collection I did last year.
 * [GC Tuning](http://www.oracle.com/technetwork/java/javase/gc-tuning-6-140523.html)
 * [Nitsan's Blog](http://psy-lob-saw.blogspot.com)
 * [Ruslan Cheremin's Posts about GC (on Russian)](http://dev.cheremin.info/search/label/GC)
-* [Aleksey Shipilëv: One Stop Page](https://shipilev.net/)
+* [Aleksey ShipilÃ«v: One Stop Page](https://shipilev.net/)
 * [Any of Gil Tene's talks. For example this](https://www.youtube.com/watch?v=we_enrM7TSY)
+* [Java Garbage Collection Distilled](https://mechanical-sympathy.blogspot.ru/2013/07/java-garbage-collection-distilled.html)
 
 Image in the 19-th slide was taken from [Safepoints: Meaning, Side Effects and Overheads](http://psy-lob-saw.blogspot.ru/2015_12_01_archive.html).
 Images in other slides were taken anywhere on the net.
