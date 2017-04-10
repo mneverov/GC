@@ -30,6 +30,7 @@ Presentation about Java garbage collection I did last year.
 * [Aleksey Shipilëv: One Stop Page](https://shipilev.net/)
 * [Any of Gil Tene's talks. For example this](https://www.youtube.com/watch?v=we_enrM7TSY)
 * [Java Garbage Collection Distilled](https://mechanical-sympathy.blogspot.ru/2013/07/java-garbage-collection-distilled.html)
+* [Memory Management (on Russian)](https://research.jetbrains.org/files/material/55e7358a6d4ba.pdf)
 
 Image in the 19-th slide was taken from [Safepoints: Meaning, Side Effects and Overheads](http://psy-lob-saw.blogspot.ru/2015_12_01_archive.html).
 Images in other slides were taken from everywhere on the net.
