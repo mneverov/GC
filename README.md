@@ -33,7 +33,6 @@ Presentation about Java garbage collection I did last year.
 * [Memory Management (on Russian)](https://research.jetbrains.org/files/material/55e7358a6d4ba.pdf)
 * [The Garbage Collection Handbook](http://gchandbook.org/)
 
-Image in the 19-th slide was taken from [Safepoints: Meaning, Side Effects and Overheads](http://psy-lob-saw.blogspot.ru/2015_12_01_archive.html).
-
-Nepotism example was taken from [Tony Printezis's talk](https://www.youtube.com/watch?v=M9o1LVfGp2A).
+Image in the 19-th slide was taken from [Safepoints: Meaning, Side Effects and Overheads](http://psy-lob-saw.blogspot.ru/2015_12_01_archive.html).  
+Nepotism example was taken from [Tony Printezis's talk](https://www.youtube.com/watch?v=M9o1LVfGp2A).  
 Images in other slides were taken from everywhere on the net.
