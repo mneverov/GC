@@ -1,5 +1,5 @@
 # GC
-Presentation about Java garbage collection I did last year.
+Presentation about Java garbage collection I did in the beginning of 2016 year.
 
 # Useful Resources (not structured)
 * [Hotspot VM Overview](https://www.cs.princeton.edu/picasso/mats/HotspotOverview.pdf)
