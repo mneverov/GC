@@ -26,7 +26,7 @@ Presentation about Java garbage collection I did in the beginning of 2016 year.
 * [Java VM Options You Should Always Use in Production](http://blog.sokolenko.me/2014/11/javavm-options-production.html)
 * [GC Tuning](http://www.oracle.com/technetwork/java/javase/gc-tuning-6-140523.html)
 * [Nitsan's Blog](http://psy-lob-saw.blogspot.com)
-* [Ruslan Cheremin Posts about GC (on Russian)](http://dev.cheremin.info/search/label/GC)
+* [Ruslan Cheremin Posts about GC (in Russian)](http://dev.cheremin.info/search/label/GC)
 * [Aleksey Shipilëv: One Stop Page](https://shipilev.net/)
 * [Any of Gil Tene talks. For example this](https://www.youtube.com/watch?v=we_enrM7TSY)
 * [Java Garbage Collection Distilled](https://mechanical-sympathy.blogspot.ru/2013/07/java-garbage-collection-distilled.html)
